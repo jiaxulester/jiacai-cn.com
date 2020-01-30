@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  width: 720px;
+  height: 1080px;
+}
+
+.product-unit {
+  width: 180px;
+  height: 210px;
+  float: left;
+  padding: 30px;
+}
+
+.product-unit img {
+  width: 178px;
+  height: 178px;
+  border: 1px solid #a694a6;
+}
+
+.product-unit p {
+  font-size: 14px;
+  color: #555;
+}

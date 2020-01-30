@@ -1,0 +1,38 @@
+.product .product-title h1 {
+  padding-left: 180px;
+}
+
+.producing .col-title h1 {
+  padding-left: 80px;
+}
+
+.producing .col-content {
+  padding-left: 56px;
+  width: 240px;
+}
+
+.footer-title h1 {
+  font-size: 25px;
+  font-weight: normal;
+  letter-spacing: 0;
+}
+
+h1.footer-title-lower {
+  font-size: 19px;
+}
+
+footer .footer-addr {
+  font-size: 16px;
+}
+
+footer .footer-botbar {
+  height: 60px;
+}
+
+footer .footer-disclaimer {
+  padding-top: 6px;
+}
+
+footer .footer-copyright {
+  padding-top: 20px;
+}
