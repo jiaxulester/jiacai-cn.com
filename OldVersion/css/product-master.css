@@ -1,0 +1,53 @@
+iframe {
+  border: none;
+  width: 720px;
+  height: 1080px;
+}
+
+.product-wrapper {
+  width: 1080px;
+  padding-left: 50%;
+  margin-left: -540px;
+  padding-top: 120px;
+}
+
+.product-nav {
+  float: left;
+  width: 300px;
+}
+
+.product-nav-hl {
+  width: 240px;
+  height: 2px;
+  background-color: #444;
+  margin: 12px 0;
+}
+
+.product-nav-list h2 {
+  font-size: 23px;
+  font-weight: normal;
+}
+
+.product-nav-list p {
+  font-size: 20px;
+  color: #aaa;
+  cursor: pointer;
+  border-bottom: 1px solid #666;
+  width: 144px;
+  padding: 18px 24px;
+}
+
+.product-nav-list p.current {
+  color: #333;
+}
+
+.product-nav-list p:last-child {
+  border-bottom: none;
+}
+
+.product-frame {
+  float: left;
+  width: 720px;
+  height: 1080px;
+  padding-bottom: 120px;
+}

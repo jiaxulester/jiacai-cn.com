@@ -1,0 +1,9 @@
+header {
+  background-color: #2b2b2b;
+  color: #adadad;
+}
+
+.header-lang-list-zhcn a:hover,
+.header-lang-list-enus a:hover {
+  color: #fff;
+}

@@ -1,0 +1,23 @@
+.intro-wrapper {
+  width: 1080px;
+  padding-left: 50%;
+  margin-left: -540px;
+}
+
+.intro-factory {
+  padding: 120px 20px;
+}
+
+.intro-factory a {
+  text-decoration: underline;
+}
+
+.intro-factory a:hover {
+  color: #777;
+}
+
+.intro-factory img {
+  width: 840px;
+  height: auto;
+  padding: 48px 100px;
+}
